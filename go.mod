@@ -1,3 +1,3 @@
-module github.com/momiom/collection
+module github.com/momiom/flatten
 
 go 1.16
